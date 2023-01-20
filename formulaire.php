@@ -18,17 +18,7 @@
 		else {
 			echo "Prénom conforme" . "<br>";
 		}
-	}
-
-	if (!empty($_POST['age'])) { // Champ de l'Age
-		if(!ctype_digit($_POST['age'])){
-			echo "Erreur d'Age" . "<br>";
-		}
-
-		else {
-			echo "Age conforme" . "<br>";
-		}
-	}
+	}s
 		
 
 	if (!empty($_POST['mail'])) { //Champ du Mail
