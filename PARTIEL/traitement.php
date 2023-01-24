@@ -4,7 +4,7 @@ require "ressources.php";
 
 $developpeur = array(new Developpeur(550,"Le Flock", "Louis-Marie", "lmleflock@test.net",
 "0606060606",2500, "Java"), git status -s --untracked-files=no
-new Developpeur(650,"Poirie", "Ethan", "ach@test.net", "0707070707",2750, "C++")) ;
+new Developpeur(650,"Poirie", "Ethan", "ach@test.net", "0707070707",2750, "C++" )) ;
  
 $manager = array() ;
 
